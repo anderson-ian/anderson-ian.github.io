@@ -2,7 +2,7 @@
 title: Ian Anderson - Transportation and logistics analytics expert
 ---
 
-/assets/images/5106.jpg
+![My Picture](/assets/images/5106.jpg)
 
 # About me...
 
