@@ -1,6 +1,6 @@
 ---
 title: Analytics Showcase
-description: Take me back [home!](anderson-ian.github.io/)
+description: a small sample size has representative potential...
 ---
 # My work
 
@@ -15,3 +15,5 @@ Nonetheless, Google was carefully storing my walks from the early pandemic in JS
 ![Map](map.png)
 
 The results are an Exploratory Data Analysis (EDA), but could serve as a basis for further analysis - or perhaps even a predictive algorithm that could identify our most-likely route for our next walk!
+
+Take me back [home!](anderson-ian.github.io/)
