@@ -2,6 +2,8 @@
 title: Ian Anderson - Transportation and logistics analytics expert
 ---
 
+/assets/images/5106.jpg
+
 # About me...
 
 Self-taught analyst leveraging passion for transportation industry to achieve positive, data-driven outcomes for stakeholders.
