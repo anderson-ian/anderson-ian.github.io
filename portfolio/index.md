@@ -1,3 +1,6 @@
+---
+title: Analytics Showcase
+---
 # My work
 
 Because my professional work and schoolwork are often sensitive and not to be shared, I have included here some past passion projects.
