@@ -27,5 +27,5 @@ Husband, competitive cyclist, cellist, and railfan.
 - SQL
 - MS Excel
 
-# [GitHub](https:/anderson-ian.github.io/)
+# [GitHub](https://github.com/anderson-ian)
 # [Portfolio](/portfolio/index.md)
