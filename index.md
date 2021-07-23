@@ -1,6 +1,8 @@
 ---
 ---
 
+# Ian Anderson
+
 Self-taught analyst leveraging passion for transportation industry to achieve positive, data-driven outcomes for stakeholders.
 
 - Masters of Science in Business Analytics (MSBA) Candidate 
