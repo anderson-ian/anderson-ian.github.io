@@ -16,4 +16,4 @@ Nonetheless, Google was carefully storing my walks from the early pandemic in JS
 
 The results are an Exploratory Data Analysis (EDA), but could serve as a basis for further analysis - or perhaps even a predictive algorithm that could identify our most-likely route for our next walk!
 
-Take me back [home!](/main/index.md)
+Take me back [home!](index.md)
