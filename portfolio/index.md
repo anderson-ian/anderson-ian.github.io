@@ -1,5 +1,6 @@
 ---
 title: Analytics Showcase
+description: Take me back [home!](anderson-ian.github.io/)
 ---
 # My work
 
