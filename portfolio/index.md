@@ -32,11 +32,9 @@ The main aim of this project is to engineer from a multi-table input dataset a d
 
  I enjoy board games, and I like the open data concept of TidyTuesday, so I decided to dive into my first Data Engineering problem to combine these worlds. The dataset contains ratings by game, and then details about each game. 
 
-The source of the data is https://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-01-25 
+The source of the data is [here.](https://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-01-25)
 
-There's a nice exploration walkthrough here:
-
-https://jvanelteren.github.io/blog/2022/01/19/boardgames.html
+There's a nice exploration walkthrough [here.](https://jvanelteren.github.io/blog/2022/01/19/boardgames.html)
 
 ##### What I Did
 
@@ -59,3 +57,5 @@ I think I did well to use pseudo-data in the tests I wrote. I have never run tes
 Obviously, it would be really important to set up models and take this to the next level. But right now, my main focus is on simple data processing that can replace Excel AND can scale to all that cool stuff that's possible when data engineering becomes predictable, reproducible, and collaborative. Kedro, git,pytest, great_expectations, and possibly DVC all seem to enable that. There's no reason to regress into Jupyter Notebook chaos. That's just an Excel transplant. It's all fun and games until you have to productionize your code and/or share it with your peers. And testing. If it can go wrong, it will go wrong.
 
 Finally, I think that this framework approach allows for incremental improvements. With this code, testing, and data validation (eventually), making enhancements and breaking ground on something new isn't so scary anymore. It just is part of the framework. That way, an enhancement doesn't involve bringing the entire pipeline into the work cue to be tested top to bottom. If code matches, and tests don't fail, a small improvement can be implemented without massive hassle. Code can be repurposed to new projects and ideas. 
+
+Take me back [home!](https:/anderson-ian.github.io/)
